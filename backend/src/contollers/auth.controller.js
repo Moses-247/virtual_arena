@@ -1,5 +1,9 @@
 export const signup = (req, res) => {
-    res.send("signup route");
+    try {
+        
+    } catch (error) {
+        
+    }
 };
 
 export const login = (req, res) => {
